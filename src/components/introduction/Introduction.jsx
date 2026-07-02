@@ -38,12 +38,12 @@ const Introduction = () => {
               Foyez kafi
             </span>
           </p>
-          <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
+          {/* <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
             I'm a  <span className="bg-highlight">MERN Stack Developer</span>{" "}
             and the Founder & CEO of  <span className="bg-highlight"> DoctypeSolution </span>I help startups, entrepreneurs, 
             and businesses build modern, scalable, and high-performance web applications. My expertise lies in crafting clean code, 
             intuitive user experiences, and digital solutions that drive real business growth.
-          </p>
+          </p> */}
           <p className="text-center lg:text-start">
             <Link
               className="btn-primary btn btn-xs xxs:btn-lg text-white"
